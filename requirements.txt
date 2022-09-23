@@ -1,0 +1,5 @@
+pandas
+aiohttp
+lxml
+html5lib
+beautifulsoup4
